@@ -1,5 +1,5 @@
-dde-dock-applets (0.0.0) unstable; urgency=medium
+dde-dock-applets (0.0.0) testing; urgency=medium
 
   * Unstable release.
 
- -- 宋文武 <songwenwu@linuxdeepin.com>  Mon, 24 Nov 2014 14:55:46 +0800
+ -- Deepin Loongson Builder <xielingyun@linuxdeepin.com>  Wed, 12 Nov 2014 16:31:52 +0800

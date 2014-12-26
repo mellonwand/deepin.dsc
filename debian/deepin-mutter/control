@@ -5,8 +5,8 @@
 Source: deepin-mutter
 Section: x11
 Priority: optional
-Maintainer: xufasheng <fasheng.xu@gmail.com>
-XSBC-Original-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
+XSBC-Original-Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
 Uploaders: Andreas Henriksson <andreas@fatal.se>, Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>, Emilio Pozuelo Monfort <pochu@debian.org>, Sjoerd Simons <sjoerd@debian.org>
 Build-Depends: cdbs (>= 0.4.90),
                debhelper (>= 9),

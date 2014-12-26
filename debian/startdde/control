@@ -1,8 +1,8 @@
 Source: startdde
 Section: admin
 Priority: extra
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
-Build-Depends: debhelper (>= 9), cmake, pkg-config, golang-go, coffeescript,
+Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
+Build-Depends: debhelper (>= 9), cmake, pkg-config, golang-go | loongson-golang, coffeescript,
  libsqlite3-dev,
  libwebkitgtk-3.0-dev,
  golang-dlib-dev,

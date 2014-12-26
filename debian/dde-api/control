@@ -1,9 +1,9 @@
 Source: dde-api
 Section: devel
 Priority: extra
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
- golang-go,
+ golang-go | loongson-golang,
  golang-dlib-dev,
  golang-xgb-dev,
  golang-xgbutil-dev,

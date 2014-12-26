@@ -2,7 +2,7 @@ deepin-wm (0.1.0) trusty; urgency=medium
 
   * Fork from gala.
 
- -- 宋文武 <songwenwu@linuxdeepin.com>  Tue, 21 Oct 2014 14:57:50 +0800
+ -- Deepin Loongson Builder <xielingyun@linuxdeepin.com>  Wed, 12 Nov 2014 16:31:52 +0800
 
 gala (0.1.0~r420+pkg29~ubuntu14.10.1) utopic; urgency=low
 

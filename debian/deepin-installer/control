@@ -1,11 +1,11 @@
 Source: deepin-installer
 Section: utils
 Priority: extra
-Maintainer: Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
+Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0),
  cmake,
  coffeescript,
- golang-go,
+ golang-go | loongson-golang,
  golang-dlib-dev,
  libdbus-glib-1-dev,
  libdeepin-webkit-3.0-0,
