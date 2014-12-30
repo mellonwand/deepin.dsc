@@ -1,7 +1,7 @@
 Source: golang-go-sqlite3
 Section: devel
 Priority: extra
-Maintainer: Deeping Loongson Builder <xielingyun@linuxdeepin.com>
+Maintainer: Deepin Loongson Builder <xielingyun@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), golang-go | loongson-golang, dh-golang, libsqlite3-dev
 Standards-Version: 3.9.5
 Homepage: https://github.com/mattn/go-sqlite3
