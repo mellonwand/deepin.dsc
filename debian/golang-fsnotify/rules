@@ -1,6 +1,0 @@
-#!/usr/bin/make -f
-
-export DH_GOPKG := github.com/howeyc/fsnotify
-
-%:
-	dh $@ --buildsystem=golang --with=golang
