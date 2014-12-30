@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+export DH_GOPKG := github.com/mattn/go-sqlite3
+export DH_GOLANG_EXCLUDES := ${DH_GOPKG}/_example ${DH_GOPKG}/sqlite3_test
+
+%:
+	dh $@ --buildsystem=golang --with=golang
