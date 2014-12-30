@@ -2,7 +2,7 @@ Source: golang-gls
 Section: devel
 Priority: extra
 Maintainer: Sou Bunnbu <iyzsong@gmail.com>
-Build-Depends: debhelper (>= 9), dh-golang, golang-go
+Build-Depends: debhelper (>= 9), dh-golang, golang-go | loongson-golang
 Standards-Version: 3.9.5
 Homepage: https://github.com/jtolds/gls
 
