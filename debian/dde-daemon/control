@@ -30,7 +30,7 @@ Architecture: any
 Depends: ${shlibs:Depends},
  ${misc:Depends},
  acpid,
- bluez,
+ bluez5,
  xcur2png,
  pulseaudio,
  network-manager,
